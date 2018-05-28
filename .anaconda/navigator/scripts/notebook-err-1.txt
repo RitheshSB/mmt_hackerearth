@@ -1,0 +1,11 @@
+[I 02:05:00.076 NotebookApp] Writing notebook server cookie secret to C:\Users\Rithesh\AppData\Roaming\jupyter\runtime\notebook_cookie_secret
+[I 02:05:01.165 NotebookApp] Serving notebooks from local directory: C:\Users\Rithesh
+[I 02:05:01.167 NotebookApp] 0 active kernels 
+[I 02:05:01.167 NotebookApp] The Jupyter Notebook is running at: http://localhost:8888/?token=ef3a519c2ae42937e7ecda41c36d64ff9eb7b0dc60c54e02
+[I 02:05:01.167 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 02:05:01.171 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=ef3a519c2ae42937e7ecda41c36d64ff9eb7b0dc60c54e02
+[I 02:05:06.256 NotebookApp] Accepting one-time-token-authenticated connection from ::1
